@@ -34,7 +34,8 @@
 ## 📌 Estatísticas:
 
 ![Brettas's Github Stats](https://github-readme-stats.vercel.app/api?username=brettasfelipe&show_icons=true&theme=github_dark)
-![Waka-Time](https://github-readme-stats.vercel.app/api/wakatime?username=brettasfelipe)[](https://wakatime.com/@brettasfelipe)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=brettasfelipe)](https://wakatime.com/@brettasfelipe)
+
 
 ---
 
