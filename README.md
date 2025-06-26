@@ -17,7 +17,7 @@
 
 | Nome | Descrição | Tecnologias | Status |
 |------|-----------|-------------|--------|
-| Portfólio Pessoal | Site com modo claro/escuro | HTML CSS | Pronto ✅
+| Portfólio Pessoal | Site com modo claro/escuro | HTML CSS JS | Pronto ✅
 
 ---
 
