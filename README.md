@@ -22,7 +22,7 @@
 | Nome | Descrição | Tecnologias | Status | Link | 
 |------|-----------|-------------|--------|------|
 | Portfólio Pessoal | Site com modo claro/escuro | HTML CSS JS | Pronto ✅ | [Clique aqui](https://github.com/brettasfelipe/DevoLinks) 
-
+| Aprendizado Python | Repositório com exercícios resolvidos em Python | Python | Em progresso 🚧 | [Clique aqui](https://github.com/brettasfelipe/aprendendo-python)
 ---
 
 ## 🧠 Estudos mais recentes:
