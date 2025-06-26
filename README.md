@@ -8,7 +8,7 @@
 ![Disponível para estágio](https://img.shields.io/badge/Dispon%C3%ADvel%20para%20est%C3%A1gio-00C851?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-## 🛠️ Tecnologias em estudo:
+## 🛠️ Tecnologias que venho aprendendo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
