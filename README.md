@@ -33,7 +33,7 @@
 # Python:
 # Automação de Tarefas 
 # Análise de Dados (Pandas e Plotly)
-# Inteligência Artificial
+# Inteligência Artificial (Scikit-Learn)
 ```
 ---
 
