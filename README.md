@@ -10,6 +10,8 @@
 ---
 ## 🛠️ Tecnologias que venho aprendendo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,6 +25,7 @@
 |------|-----------|-------------|--------|------|
 | Portfólio Pessoal | Site com modo claro/escuro | HTML CSS JS | Pronto ✅ | [Clique aqui](https://github.com/brettasfelipe/DevoLinks) 
 | Aprendizado Python | Repositório com exercícios resolvidos em Python | Python | Em progresso 🚧 | [Clique aqui](https://github.com/brettasfelipe/aprendendo-python)
+| Aprendendo C | Repositório com exercícios resolvidos em C | C | Em progresso 🚧 | [Clique aqui](https://github.com/brettasfelipe/aprendendo-c)
 ---
 
 ## 🧠 Estudos mais recentes:
@@ -35,6 +38,14 @@
 # Análise de Dados (Pandas e Plotly)
 # Inteligência Artificial (Scikit-Learn)
 ```
+```C
+# C:
+# Tipos de dados
+# Controle de fluxo
+# Arrays
+# Funções
+```
+
 ---
 
 ## 📌 Estatísticas:
