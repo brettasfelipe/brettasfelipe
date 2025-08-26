@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Brettas!
 
 * 🎓 Sou estudante de Engenharia Mecatrônica (Controle e Automação) da Universidade de Brasília!
-* 💻 Habilidades em Desenvolvimento Web (HTML, CSS, JS - básico) e Python!
+* 💻 Habilidades em Desenvolvimento Web (HTML, CSS, JS - básico), Python e C!
 
 <br>
 
